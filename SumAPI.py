@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-import pandas as pd
+# import pandas as pd
 import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 from string import punctuation
