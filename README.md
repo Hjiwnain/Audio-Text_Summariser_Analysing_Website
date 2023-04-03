@@ -1,5 +1,5 @@
 
-  <h1><p align="center"><b><b>AISTAM - AI Based Text Summarizer & Analyzer</b></b>
+<h1><p align="center"><b><b>Audio-Text Summariser and Analysing Website</b></b>
 </p></h1>
 
 <div align="center">
