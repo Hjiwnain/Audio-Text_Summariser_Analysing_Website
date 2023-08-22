@@ -38,7 +38,7 @@
 - **Running the Application**:
   - On Unix/Linux: `./unix_run.sh`
   - On Windows: `windows_run.bat`
-- **Access the Web Interface**: Open your browser and navigate to [fakesite.invalid](fakesite.invalid).
+- **Access the Web Interface**: Open your browser and navigate to [LocalRun].
 
 ## License
 
