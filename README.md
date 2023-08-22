@@ -29,8 +29,8 @@
 
 ## Installation
 
-1. **Clone the Repository**: `git clone https://github.com/username/project-repo.git`
-2. **Navigate to the Project Directory**: `cd project-repo`
+1. **Clone the Repository**: `git clone https://github.com/Hjiwnain/Audio-Text_Summariser_Analysing_Website.git`
+2. **Navigate to the Project Directory**: `cd Audio-Text_Summariser_Analysing_Website`
 3. **Install Required Dependencies**: `pip install -r requirements.txt`
 
 ## Getting Started
@@ -42,4 +42,4 @@
 
 ## License
 
-This project is licensed under the terms of the [PyPI License](LICENSE).
+This project is licensed under the terms of the [PyPI License]([LICENSE](https://github.com/Hjiwnain/Audio-Text_Summariser_Analysing_Website/blob/main/LICENSE)).
