@@ -42,4 +42,4 @@
 
 ## License
 
-This project is licensed under the terms of the [PyPI License]([LICENSE](https://github.com/Hjiwnain/Audio-Text_Summariser_Analysing_Website/blob/main/LICENSE)).
+This project is licensed under the terms of the [PyPI License](https://github.com/Hjiwnain/Audio-Text_Summariser_Analysing_Website/blob/main/LICENSE).
